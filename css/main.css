@@ -9,7 +9,7 @@ body {
     background-image: url(../img/background.jpg);
     background-size: cover;
     background-position: center;
-    filter: blur(18px);
+    filter: blur(20px);
 }
 .margin-bottom-0 {
     margin-bottom: 0;
